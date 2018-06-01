@@ -117,7 +117,6 @@ lib/libdrmdiag.so
 vendor/lib/libuiblur.so
 
 # Time services
--app/TimeService/TimeService.apk
 bin/time_daemon
 vendor/lib/libtime_genoff.so
 vendor/lib/libTimeService.so
@@ -133,7 +132,6 @@ etc/firmware/vidc.mdt
 
 # Widevine DRM
 etc/permissions/com.google.widevine.software.drm.xml
--framework/com.google.widevine.software.drm.jar
 vendor/lib/drm/libdrmwvmplugin.so
 vendor/lib/libdrmdecrypt.so
 vendor/lib/libwvdrm_L3.so
